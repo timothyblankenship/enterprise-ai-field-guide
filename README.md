@@ -8,7 +8,11 @@ This field guide examines those responsibilities together. It draws on my experi
 
 ## Published Chapters
 
+### Part I: Understand the System
+
 1. [Enterprise AI Is a Technology Stack](enterprise-ai-technology-stack.md)
+2. [Anatomy of an Enterprise AI System](anatomy-of-an-enterprise-ai-system.md)
+3. [Designing the Enterprise AI Architecture](designing-the-enterprise-ai-architecture.md)
 
 Additional chapters will be published as they are ready, covering the anatomy of an AI system, architecture, governance, cost guardrails, and the engineering required to make AI dependable.
 
