@@ -44,9 +44,39 @@ Establish practical controls for decisions, spending, discovery, access, and sec
 | 07 - [Identity, Access, and Delegated Authority](identity-access-and-delegated-authority.md) | Permissions and meaningful approvals for people, applications, and agents. |
 | 08 - [Securing AI Applications and Data](securing-ai-applications-and-data.md) | Layered security, enforceable boundaries, and containment that accounts for downstream effects. |
 
-### Where the Guide Goes Next
+### Part III - Build the Capabilities
 
-Future Parts will cover building the capabilities, proving and operating them, and making enterprise AI sustainable. That includes models, retrieval, tools, internal platforms, evaluation, reliability, disaster recovery, FinOps, and leadership.
+Choose models for the business task and build the services, context, and integrations that make them useful.
+
+| Chapter | What we work through |
+| :--- | :--- |
+| 09 - [Choosing and Managing Models](choosing-and-managing-models.md) | Business outcomes, model evaluation, vendor review, and the cost of useful results. |
+| 10 - [Model Access and AI Gateways](model-access-and-ai-gateways.md) | Shared API access, routing, caching, usage controls, and the boundaries of gateway enforcement. |
+
+#### Upcoming in Part III
+
+11. Inference, GPUs, and Model Serving
+12. Engineering Enterprise Context
+13. Building Retrieval That Stays Useful
+14. Tools, Integrations, and Execution
+15. Workflows, Agents, and Human Approval
+16. Building the Internal AI Platform
+
+### Upcoming: Part IV - Prove It and Operate It
+
+17. Evaluation Before and After Release
+18. Delivering Changes Safely
+19. Observability and Incident Response
+20. Reliability and Capacity Engineering
+21. Disaster Recovery and Business Continuity
+22. FinOps and the Cost of Useful Work
+
+### Upcoming: Part V - Make It Sustainable
+
+23. Leading Enterprise AI Adoption
+24. An Enterprise AI Architecture Review
+
+### Keeping the Guide Current
 
 This guide will grow as I publish new chapters and revisit existing material. AI capabilities, services, and practices change quickly, so check the linked sources for current details. My focus is on practical judgment that remains useful as the technology evolves.
 
